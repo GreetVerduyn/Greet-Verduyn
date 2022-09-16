@@ -15,7 +15,7 @@ I am currently taking a Junior Web Development course at BeCode (Antwerp)
 
 GitHub, Git bash, PhpStorm
 
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript, TypeScript
 
 MariaDB,MySQL
 
@@ -23,4 +23,4 @@ NodeJS, React, Angular
 
 php, Symfony
 
-OOP, scrum, mvc, 
+OOP, scrum, mvc, SOLID
