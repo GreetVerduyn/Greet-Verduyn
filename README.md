@@ -1,5 +1,5 @@
 # I am Greet
-cheerful mother of 2 beautiful sons.
+cheerful mother of 2 beautiful sons
 
 
 ## education
