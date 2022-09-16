@@ -8,3 +8,19 @@ I am a dietitian by training, but because I missed some challenge at work, I dec
 I am currently taking a Junior Web Development course at BeCode (Antwerp) 
   
 ... and am looking forward to gaining some work experience during my first job as a developer.
+
+<br>
+
+### What I have learned so far in the course
+
+GitHub, Git bash, PhpStorm
+
+HTML, CSS, JavaScript
+
+MariaDB,MySQL
+
+NodeJS, React, Angular
+
+php, Symfony
+
+OOP, scrum, mvc, 
