@@ -13,7 +13,7 @@ I am currently taking a Junior Web Development course at BeCode (Antwerp)
 
 ### What I have learned so far in the course
 
-GitHub, Git bash, PhpStorm
+GitHub, Git bash, PhpStorm, JIRA
 
 HTML, CSS, JavaScript, TypeScript
 
