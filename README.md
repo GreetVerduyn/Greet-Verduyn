@@ -10,8 +10,15 @@ I am currently taking a Junior Web Development course at BeCode (Antwerp)
 ... and am looking forward to gaining some work experience during my first job as a developer.
 
 <br>
+My internship at TActics is coming to an end....
+So I'm looking for a new challenge and great colleagues to further expand my knowledge 
+
+<br>
+
 
 ### What I have learned so far in the course
+
+React, React-Native
 
 GitHub, Git bash, PhpStorm, JIRA
 
